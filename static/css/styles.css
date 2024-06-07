@@ -1,0 +1,26 @@
+body {
+    background: #000;
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+}
+
+h1 {
+    color: Violet;
+}
+
+.card {
+    background: #333;
+    border-radius: 15px;
+}
+
+.form-control, .btn {
+    border-radius: 15px;
+}
+
+#map {
+    height: 500px;
+}
+
+.fixed-bottom {
+    margin-bottom: 20px;
+}
