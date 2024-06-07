@@ -1,5 +1,8 @@
 matplotlib
+seaborn
 pandas
 scikit-learn
 numpy
 Flask
+haversine
+gunicorn
